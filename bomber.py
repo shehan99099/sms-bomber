@@ -38,8 +38,7 @@ def main():
 
 
 
-    url = "https://www.airbnb.com/api/v2/phone_one_time_passwords?currency=USD&key=d306zoyjsyarp7ifhu67rjxn52tv0t20&locale=en"
-    
+    url = "https://getshoutout.com/contactus"
 
     headers = {
     "accept": "application/json, text/javascript, */*; q=0.01",
@@ -51,8 +50,8 @@ def main():
     "device-memory": "4",
     "dpr": "1",
     "ect": "4g",
-    "origin": "https://www.airbnb.com",
-    "referer": "https://www.airbnb.com/",
+    "origin": "https://getshoutout.com/",
+    "referer": "https://getshoutout.com/",
     "sec-fetch-dest": "empty",
     "sec-fetch-mode": "cors",
     "sec-fetch-site": "same-origin",
